@@ -4,21 +4,21 @@
 
 **Topics Covered:**
 
-•	Procedural and object-oriented programming in Java (Part I)
+ •	Procedural and object-oriented programming in Java (Part I)
 
-•	Lower-level programming in C (Part II)
+ •	Lower-level programming in C (Part II)
 
-•	Development tools and environments (Eclipse, CLI usage)
+ •	Development tools and environments (Eclipse, CLI usage)
 
-•	Design, implementation, and testing of small software systems
+ •	Design, implementation, and testing of small software systems
 
 **Key Assignments and What They Showcase**
 
 **1.	Assignment 1 – Base Conversion Program in Java**
 
-o	Built an interactive CLI app in Java to convert numbers across bases 2–16
+ o	Built an interactive CLI app in Java to convert numbers across bases 2–16
 
-o	Showcased algorithmic thinking, string parsing, numeric conversion, and method structuring
+ o	Showcased algorithmic thinking, string parsing, numeric conversion, and method structuring
 
 **2.	Assignment 2 – File Sorting Using B-Trees and Stacks**
 
