@@ -14,25 +14,25 @@
 
 **Key Assignments and What They Showcase**
 
-**1.**	Assignment 1 – Base Conversion Program in Java
+**1.	Assignment 1 – Base Conversion Program in Java**
 
 o	Built an interactive CLI app in Java to convert numbers across bases 2–16
 
 o	Showcased algorithmic thinking, string parsing, numeric conversion, and method structuring
 
-**2.**	Assignment 2 – File Sorting Using B-Trees and Stacks
+**2.	Assignment 2 – File Sorting Using B-Trees and Stacks**
 
 o	Developed custom implementations of B-Trees and Stacks to sort names from a file
 
 o	Demonstrated understanding of non-recursive tree traversal, data structures, and file I/O
 
-**3.**	Assignment 3 – Infix to Postfix Conversion (Shunting Yard Algorithm)
+**3.	Assignment 3 – Infix to Postfix Conversion (Shunting Yard Algorithm)**
 
 o	Created a parser using Stacks and Queues to convert algebraic expressions from infix to postfix notation
 
 o	Reinforced tokenizer usage, parsing logic, operator precedence handling
 
-**4.**	Assignment 4 – Postfix Calculator with GUI
+**4.	Assignment 4 – Postfix Calculator with GUI**
 
 o	Extended previous assignment to include:
 
