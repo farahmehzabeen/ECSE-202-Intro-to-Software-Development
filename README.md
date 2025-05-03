@@ -1,5 +1,7 @@
 # ECSE-202-Intro-to-Software-Development
+
 **Languages & Tools:** Java, C, Eclipse, ACM Library, StringTokenizer, basic GUI design, debugging tools
+
 **Topics Covered:**
 •	Procedural and object-oriented programming in Java (Part I)
 •	Lower-level programming in C (Part II)
